@@ -28,3 +28,5 @@ function readDigit(digit) {
   // Example usage
   console.log(readDigit("5")); // Output: "five"
   
+
+  [0-9]+\s[0-9]{10}$
